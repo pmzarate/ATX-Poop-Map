@@ -1,2 +1,2 @@
 # ATX-Poop-Map
-clients can log in and report incidents of poop in ATX. Once location is geolocated, the map will mark a poop icon
+clients can log in and report incidents of human poop left in ATX public areas. Once location is geolocated, the map will mark a poop icon, which will include date/time and any additional comments User would like to leave.   Users will also be able to report any leftover poop from our precious pooches!  There is a field for rating public restrooms and dog parks noting location/date/time, as well as any additional comments.  
